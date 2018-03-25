@@ -1,4 +1,4 @@
-#Info Cryptocurrency
+# Info Cryptocurrency
 
 ## Script em python para consulta de informações sobre preços de criptomoedas direto do site CoinMarketCap.
 
